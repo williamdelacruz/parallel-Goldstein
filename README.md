@@ -5,7 +5,7 @@ This repository contains the source code and data files of the parallel golstein
 
 See the LICENSE file for the licensing statement and Disclaimer of Warranty.
 
-The source code was written in C on gcc compilers using Linux Ubuntu operating system. The organization of the directory qgpu is the following:
+The source code was written in C on gcc compiler using Linux Ubuntu operating system. The organization of the directory qgpu is the following:
 
 1. lib, include, src: Implementation of the quality guide phase unwrapping algorithm with the pruning strategy.
 
