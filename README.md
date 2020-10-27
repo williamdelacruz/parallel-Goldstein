@@ -14,6 +14,6 @@ The source code was written in C on gcc compiler using Linux Ubuntu operating sy
 
 Compiling:
 
-The implementation of the parallel Goldstein algorithm contains three directories, say include, lib and src. The header files in each implementation are in the include directory and the source files are in the src directory. To generate the executable program, locate in the corresponding src directory and type make in order to compile the project. To execute the program, type ./main in the current src directory.
+The implementation of the parallel Goldstein algorithm contains three directories, say include, lib and src. The header files in each implementation are in the include directory and the source files are in the src directory. To generate the executable program, locate in the corresponding src directory and type make in order to compile the project. To execute the program, type ./main in the current src directory. This implemetation requires to install the OpenMP library on your system.
 
 The project can be compiled either in MAC OS x and in Linux operating systems with minor modifications.
